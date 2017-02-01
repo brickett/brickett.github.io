@@ -1,3 +1,5 @@
-# brickett.github.io
+# Bryan Ricketts' Projects  
+## brickett.github.io
 
-test website
+### CBE 40497 *Prof. Kantor*
+* [SRK Equation of State] (https://brickett.github.io/CBE40497-EoS)
